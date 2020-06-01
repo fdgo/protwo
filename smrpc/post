@@ -1,0 +1,7 @@
+wrk.method = "POST"
+wrk.body   = '{"name":"123wmh"}'
+wrk.headers["Content-Type"] = "application/json"
+
+
+
+
